@@ -1,0 +1,6 @@
+fastapi==0.97.0
+uvicorn[standard]==0.22.0
+celery==5.3.1
+redis==4.5.5
+SQLAlchemy==2.0.16
+flower==2.0.0
